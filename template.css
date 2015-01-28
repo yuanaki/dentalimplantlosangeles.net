@@ -1140,7 +1140,7 @@ ul.art-hmenu>li>a
 
 {
 
-  padding: 0 22px;
+  padding: 0 12px;
 
   margin: 0 auto;
 
@@ -1172,7 +1172,7 @@ ul.art-hmenu>li>a
 
   font-family: 'Open Sans', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
 
-  font-weight: bold;
+  font-weight: normal;
 
   font-style: normal;
 
@@ -1190,7 +1190,7 @@ ul.art-hmenu>li>a.active
 
 {
 
-  padding: 0 22px;
+  padding: 0 12px;
 
   margin: 0 auto;
 
@@ -1218,7 +1218,7 @@ ul.art-hmenu>li>a:hover, .desktop ul.art-hmenu>li:hover>a
 
   background: #646464;
 
-  padding: 0 22px;
+  padding: 0 12px;
 
   margin: 0 auto;
 
